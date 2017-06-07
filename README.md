@@ -1,1 +1,1 @@
-This is the jupyter notebook for my blogpost on an [sklearn identity transformer]() for sklearn's `pipeline`.
+This is the jupyter notebook for my blogpost on an [sklearn identity transformer](https://medium.com/@literallywords/sklearn-identity-transformer-fcc18bac0e98) for sklearn's `pipeline`.
